@@ -1,0 +1,120 @@
+/*
+*  
+* CSS Styles that are using in MoonPhase Web App.
+* 
+* Copyright (C) 2012,2017  A.V.T. Software (Sole Proprietorship Vita Tolstikova)
+*
+* @author Andrei Tolstikov
+* @author Vita Tolstikova
+* 
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+* 
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program.  If not, see <http://www.gnu.org/licenses/>.
+* 
+* contact website: https://software.avt.dn.ua
+* contact E-mail: support@software.avt.dn.ua
+*
+*/
+
+ /*Classes and ID's for "Current Moon Phase" menu item */
+  #moon_container{
+	background-color:transparent;
+	width:200px;
+	height:250px;
+	position:absolute;
+	top:250px;
+	left:50px;
+  }
+  
+  #moon {
+	width:96px;
+	height:93px;
+	margin-left:52px;	
+	}
+ 
+  #curr_date {
+	color:#fff;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+	}
+
+  #num_lunar_day {
+	color:#fff;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+   }
+     
+  
+  #hemisphere {
+	color:#fff;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+   }
+   
+/*Classes and ID's for "About" menu item */
+  #webapps_name {
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+  }
+  
+  #webapps_version {
+	color:#fff;
+	font-size:18px;
+  }
+  
+  #contact_info{
+	color:#fff;
+	padding-top:25px;
+	font-size:18px;
+  }
+  
+  #contact_header {
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+  }
+
+/*Classes and ID's for "Help" menu item */
+  #help_info{
+	color:#fff;
+	font-size:16px;
+	text-align:left;
+	padding-left:3px;
+	padding-top: 3px;
+  }
+  
+  
+/*Classes and ID's for "User agreement" menu item */
+   
+  #user_agreement_info{
+	color:#fff;
+	font-size:16px;
+	text-align:left;
+	padding-left:1px;
+	margin-bottom:10px;
+	
+  }  
+ 
+/*Classes and ID's for "Privacy policy" menu item */
+   
+  #privacy_policy_info{
+	color:#fff;
+	font-size:16px;
+	text-align:left;
+	padding-left:1px;
+	margin-bottom:10px;
+	
+  }  
