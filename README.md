@@ -22,7 +22,7 @@ MoonPhase Web App v 1.0.2
     has made a decision to publish the MoonPhase Web App on GitHUB 
     as an open source project.
     
-    In honor of the fifteenth anniversary of A.V.T. Company ( https://avt.dn.ua ).
+    In honor of the 15th Anniversary of A.V.T. Company ( https://avt.dn.ua ).
 
 
 2. Using MoonPhase Web App
